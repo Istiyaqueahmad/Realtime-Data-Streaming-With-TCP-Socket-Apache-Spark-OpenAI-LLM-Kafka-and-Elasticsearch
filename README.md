@@ -10,3 +10,11 @@ Realtime Data Streaming With TCP Socket, Apache Spark, OpenAI LLM, Kafka and Ela
 #Control Center and Schema Registry: Helps in monitoring and schema management of our Kafka streams.
 #Kafka Connect: For connecting to elasticsearch
 #Elasticsearch: For indexing and querying
+
+echnologies
+Python
+TCP/IP
+Confluent Kafka
+Apache Spark
+Docker
+Elasticsearch
