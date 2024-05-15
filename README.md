@@ -11,7 +11,7 @@ Realtime Data Streaming With TCP Socket, Apache Spark, OpenAI LLM, Kafka and Ela
 #Kafka Connect: For connecting to elasticsearch
 #Elasticsearch: For indexing and querying
 
-echnologies
+Technologies
 Python
 TCP/IP
 Confluent Kafka
